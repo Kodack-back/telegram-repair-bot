@@ -1,0 +1,16 @@
+{
+  "name": "telegram-repair-bot",
+  "version": "1.0.0",
+  "description": "Telegram bot для заявок на ремонт техники",
+  "main": "index.js",
+  "scripts": {
+    "dev": "netlify dev",
+    "build": "echo 'No build needed'"
+  },
+  "dependencies": {
+    "node-fetch": "^2.6.7"
+  },
+  "devDependencies": {
+    "netlify-cli": "^15.0.0"
+  }
+}
